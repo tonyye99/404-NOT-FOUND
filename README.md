@@ -35,9 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/26222902/129675397-49b34577-367e-4043-8181-14a9ffc9a993.png)
-
-
+![screenshot](https://user-images.githubusercontent.com/26222902/129681185-e5b18ad4-6260-4858-9793-5b2ee44e178f.png)
 
 
 - A simple, beautiful, and responsive 404 not found page made with HTML, CSS, and deployed on Vercel.

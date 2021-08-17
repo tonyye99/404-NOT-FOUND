@@ -54,6 +54,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://yehtetaung.netlify.app)
-- GitHub [@your-username](https://github.com/tony-yh91/404-NOT-FOUND)
-- Twitter [@your-twitter](https://twitter.com/TonyYe99)
+- Website [yehtetaung.netlify.app](https://yehtetaung.netlify.app)
+- GitHub [@tony-yh91](https://github.com/tony-yh91/404-NOT-FOUND)
+- Twitter [@TonyYe99](https://twitter.com/TonyYe99)

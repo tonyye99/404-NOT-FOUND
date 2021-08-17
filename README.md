@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](<img width="1552" alt="404-not-found" src="https://user-images.githubusercontent.com/26222902/129675397-49b34577-367e-4043-8181-14a9ffc9a993.png">)
+![screenshot](https://user-images.githubusercontent.com/26222902/129675397-49b34577-367e-4043-8181-14a9ffc9a993.png)
 
 
 
